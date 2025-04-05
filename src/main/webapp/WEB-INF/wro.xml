@@ -1,0 +1,6 @@
+<groups xmlns="http://www.isdc.ro/wro">
+    <group name="vue">
+        <js>/assets/dev/vue/vue-3.2.37.js</js>
+        <js>/assets/dev/vue/vue3-sfc-loader.js</js>
+    </group>
+</groups>
